@@ -16,7 +16,7 @@ struct Help {
 };
 
 struct SharedPtr {
-	// реализуйте следующие методы
+	// Г°ГҐГ Г«ГЁГ§ГіГ©ГІГҐ Г±Г«ГҐГ¤ГіГѕГ№ГЁГҐ Г¬ГҐГІГ®Г¤Г»
 	//
 	explicit SharedPtr(Expression *ptr = 0) {
 		if (ptr != 0)
